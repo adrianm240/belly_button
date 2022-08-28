@@ -4,3 +4,5 @@ The purpose of this project was to create a dashboard that visualized belly butt
 
 ## Project Results
 This is a picture of the dashboard:
+
+![](static/images/dashboard.png)
