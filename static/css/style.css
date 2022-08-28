@@ -1,0 +1,10 @@
+body {
+
+    color: hsl(240, 6%, 10%);
+    }
+
+    .jumbotron {
+        background-image: url("../images/virus.jpg");
+        background-size: 100% 100%;
+        text-align: center;
+        }
